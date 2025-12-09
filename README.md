@@ -1,12 +1,15 @@
 # Dify Go SDK
+
 This is the Go SDK for the Dify API, which allows you to easily integrate Dify into your Go applications.
 
 ## Install
+
 ```bash
-go get github.com/langgenius/dify-sdk-go
+go get github.com/zhangshican/dify-sdk-go
 ```
 
 ## Usage
+
 After installing the SDK, you can use it in your project like this:
 
 ```go
@@ -17,7 +20,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/langgenius/dify-sdk-go"
+	"github.com/zhangshican/dify-sdk-go"
 )
 
 func main() {
@@ -62,4 +65,5 @@ func main() {
 ```
 
 ## License
+
 This SDK is released under the MIT License.
